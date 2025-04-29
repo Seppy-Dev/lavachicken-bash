@@ -1,3 +1,4 @@
+#!/bin/bash
 clear
 
 # La-la-la-Lava
